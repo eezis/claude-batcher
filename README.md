@@ -1,5 +1,5 @@
 # claude-batcher
-Combine different source code files into a single file that can be uploaded to Claude AI
+Combine different source code files into a single file that can be uploaded to Claude AI. Use it iteratively. Batch up the files and attach it to the project when you start a session. After the files are refactored delete the stale attachments, and upload the fresh files to keep the AI model current.
 
 Tested on Ubuntu only.
 
